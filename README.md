@@ -1,0 +1,1 @@
+# androidcode-to-delete-data-from-the-database-
